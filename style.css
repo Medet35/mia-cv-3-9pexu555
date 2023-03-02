@@ -1,0 +1,158 @@
+.osnova1 {
+  border: 3px solid blue;
+  width: 1177px;
+  height: 250px;
+  display: flex;
+  margin-left: 400px;
+  margin-bottom: 5px;
+}
+.block1 {
+  display: block;
+  border: 3px solid red;
+  width: 555px;
+  height: 220px;
+  margin-left: 10px;
+  padding: 5px;
+  margin-top: 5px;
+}
+.block2 {
+  display: flexbox;
+  border: 3px solid red;
+  width: 570px;
+  height: 220px;
+  margin-left: 5px;
+  margin-bottom: px;
+  padding: 5px;
+  margin-top: 5px;
+}
+.osnova2 {
+  border: 3px solid blue;
+  width: 1180px;
+  display: flex;
+  margin-left: 400px;
+  height: 1725px;
+}
+.block3 {
+  border: 3px solid red;
+  width: 300px;
+  height: 1700px;
+  padding: 5px;
+  display: flexbox;
+  margin: 5px;
+}
+.blochok1 {
+  border: 3px solid green;
+  height: 480px;
+  text-align: center;
+  display: block;
+  width: 290px;
+  line-height: 15px;
+  margin: 3px;
+}
+.blochok2 {
+  border: 3px solid green;
+  height: 580px;
+  text-align: center;
+  display: block;
+  width: 290px;
+  line-height: 5px;
+  margin: 3px;
+}
+.blochok3 {
+  display: inline-block;
+  line-height: 25px;
+  margin: 5px;
+
+  height: 230px;
+  border: 3px solid green;
+  width: 820px;
+  padding: 5px;
+}
+.block4 {
+  border: 3px solid red;
+  height: 1710px;
+  margin: 5px;
+  
+}
+.blochok4 {
+  display: inline-block;
+  border: 3px solid green;
+  width: 830px;
+  height: 210px;
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-right: 5px;
+  line-height: 9px;
+  
+}
+.blochok5 {
+  border: 3px solid green;
+  width: 830px;
+  display: inline-block;
+  height: 500px;
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-right: 5px;
+ 
+}
+.blochok6{
+  border: 3px solid green;
+  display: inline-block;
+  width: 823px;
+  height: 310px;
+  margin: 3px;
+  padding: 4px;
+  line-height: 20px;
+}
+.blochok7{
+  display: inline-block;
+  border: 3px solid green;
+  width: 820px;
+  height: 280px;
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-right: 5px;
+  padding: 5px;
+  line-height: 20px;
+
+} 
+.osnova3{
+  border: 3px solid blue;
+  width: 1180px;
+  display: flex;
+  margin-left: 400px;
+  height: 110px;
+  margin-top: 5px;
+}
+.block5{
+  border: 3px solid red;
+  display: block;
+  width: 310px;
+  margin: 5px;
+  height: 95px;
+}
+.block6{
+  border: 3px solid red;
+  display: inline-block;
+  width: 840px;
+  margin: 5px;
+  height:65px;
+  text-align: center;
+  padding-top: 30px;
+  
+}
+.blue{
+  color: aqua;
+}
+.blue2{
+  color: aqua;
+}
+.gray{
+  color: gray;
+}
+.bold{
+  font-weight: lighter;
+}
+.cursive{
+  font-weight: lighter;
+}
